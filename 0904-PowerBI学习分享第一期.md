@@ -16,7 +16,7 @@
 
 报名人数：16人
 
-实到人数：15人（曹军战1人缺席）
+实到人数：15人
 
 文件下载：https://leigongzi-my.sharepoint.com/:x:/g/personal/bi_kuaidao_cc/EfQH8s12iSBDn-vR4D1kNsoB0O6JSbqvPWP7iofpqB6Lsw?e=ymzUTR
 
@@ -75,6 +75,7 @@
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/48279511.jpg)
 
 转化为：
+
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/6437279.jpg)
 
 ## 透视列
@@ -82,10 +83,13 @@
 > 逆透视的反操作
 
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/6437279.jpg)
+
 转化为：
+
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/48279511.jpg)
 
 # BI可视化
+
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/59564964.jpg)
 
 ## 制作简单的图标
@@ -93,12 +97,10 @@
 ### 柱形图
 ### 表格
 ## TOPN扩展学习：
-![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/25903470.jpg)
 
 
-# 练习后评估
+# 练习后模块重新评估
 
-> 完成以上所有学习模块的练习后，重新扫码提交评估
 
 
 
