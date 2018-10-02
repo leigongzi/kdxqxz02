@@ -14,11 +14,9 @@
 
 难度：☆☆
 
-报名人数：16人
 
-实到人数：15人
 
-文件下载：https://leigongzi-my.sharepoint.com/:x:/g/personal/bi_kuaidao_cc/EfQH8s12iSBDn-vR4D1kNsoB0O6JSbqvPWP7iofpqB6Lsw?e=ymzUTR
+[点击下载示例文件](https://leigongzi-my.sharepoint.com/:x:/g/personal/bi_kuaidao_cc/EfQH8s12iSBDn-vR4D1kNsoB0O6JSbqvPWP7iofpqB6Lsw?e=ymzUTR)
 
 # 练习知识点：
 
