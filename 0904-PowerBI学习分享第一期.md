@@ -80,7 +80,7 @@
 
 ## 透视列
 
-> 逆透视的反操作
+逆透视的反操作
 
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/6437279.jpg)
 
