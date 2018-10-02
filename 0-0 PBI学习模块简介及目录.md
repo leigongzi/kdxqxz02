@@ -8,7 +8,7 @@
 * [数据导入模块](#数据导入模块)
 * [PQ界面清洗模块](#PQ界面清洗模块)  
 * [模糊匹配模块](#模糊匹配模块) 
-* [URL模块](#URL模块)  
+* [网址URL模块](#网址URL模块)  
 
 
 
@@ -23,6 +23,9 @@
 * [主题模块](#主题模块)
 
 # 快捷键学习
+[快捷键学习](https://zhuanlan.zhihu.com/p/27156668)
+
+> 评价：快速上手，极大提升工作效率。 
 
 # 数据导入模块
 （必学模块）
@@ -69,8 +72,6 @@ DAX：添加列 = if ([业绩]>10000,"主要产品","辅助产品")
 # PQ界面清洗模块
 （半天上手，自动化操作数据清洗流程）
 
-https://github.com/leigongzi/kdxqxz02/blob/master/0904-PowerBI%E5%AD%A6%E4%B9%A0%E5%88%86%E4%BA%AB%E7%AC%AC%E4%B8%80%E6%9C%9F.md
-
 ## 格式修改（数值，日期等格式的修改）
 
 ## 提取模块（从列中提取某些内容，细化颗粒度，为建模分析做准备）
@@ -79,7 +80,7 @@ https://github.com/leigongzi/kdxqxz02/blob/master/0904-PowerBI%E5%AD%A6%E4%B9%A0
 
 ## 透视逆透视模块（偶尔一些场景下使用）
 
-https://mp.weixin.qq.com/s/_OgRoj0CVAAG7ku0T-s9_g
+[小案例](https://mp.weixin.qq.com/s/_OgRoj0CVAAG7ku0T-s9_g)
 小案例，涉及<添加索引列><逆透视><透视模块-分组依据>
 
 # 图表交互模块
@@ -110,7 +111,7 @@ https://zhuanlan.zhihu.com/p/25380639
 # 书签模块
 更好的讲述报告背后的故事
 
-# URL模块
+# 网址URL模块
 （编码解码）
 https://zhuanlan.zhihu.com/p/26645483
 
