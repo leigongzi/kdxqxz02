@@ -80,6 +80,7 @@
 ## 透视列
 
 > 逆透视的反操作
+
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/6437279.jpg)
 转化为：
 ![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/48279511.jpg)
