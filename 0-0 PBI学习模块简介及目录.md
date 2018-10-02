@@ -23,7 +23,7 @@
 * [主题模块](#主题模块)
 
 
-![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/91612638.jpg)
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/5435047.jpg)
 
 
 # 快捷键学习
