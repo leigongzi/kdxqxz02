@@ -72,18 +72,20 @@
 
 将同一属性的值，从列维度转化为行维度
 
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/48279511.jpg)
 
 转化为：
-
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/6437279.jpg)
 
 ## 透视列
+
 > 逆透视的反操作
-
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/6437279.jpg)
 转化为：
-
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/48279511.jpg)
 
 # BI可视化
-
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/59564964.jpg)
 
 ## 制作简单的图标
 ### 条形图
@@ -91,7 +93,7 @@
 ### 表格
 ## TOPN扩展学习：
 
-
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/25903470.jpg)
 
 # 练习后评估
 
