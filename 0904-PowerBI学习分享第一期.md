@@ -93,7 +93,7 @@
 ### 柱形图
 ### 表格
 ## TOPN扩展学习：
-
+![](http://leigongzi.oss-cn-beijing.aliyuncs.com/18-10-2/25903470.jpg)
 
 
 # 练习后评估
