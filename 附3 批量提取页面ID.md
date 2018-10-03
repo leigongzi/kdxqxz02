@@ -3,8 +3,10 @@
 
 # 最高效的公式
 
+添加自定义列：
+
 ```
-List.RemoveNulls(
+= List.RemoveNulls(
   List.TransformMany(
     Text.Split([网址],"/"),
     each {"py","pw","my","mw"},
