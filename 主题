@@ -1,0 +1,73 @@
+{
+
+"name":"leigongzi",
+
+"dataColors":[
+  
+	"#003366", 
+  
+	"#A8C5E0", 
+  	
+	"#214F80", 
+  
+	"#A4D3E3", 
+  
+	"#82A1BD", 
+  
+	"#366996", 
+  
+	"#304E64", 
+  
+	"#0C304A"
+],
+
+"background":"#FFFFFF",
+
+"foreground":"#000000",
+
+"tableAccent":"#CDCDCD",
+
+
+"visualStyles":{
+  
+	"*": {
+    
+		"*": {
+     
+			"*": [
+			{
+
+			"fontSize": 10,
+
+			"fontFamily": "Segoe UI",
+
+			"color": {"solid": {} }
+
+				}
+    
+			]
+  
+		}
+	
+},
+
+
+
+"card": {
+  
+	"*": {
+    
+	"labels": [
+
+		{
+
+		"fontSize":24,
+ 
+		"fontFamily": "Trebuchet MS"
+
+		}
+
+    ]
+  }
+  }
+	}}
